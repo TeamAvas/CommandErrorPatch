@@ -1,0 +1,7 @@
+name: CommandErrorPatch
+main: skh6075\commandpatch\CommandPatch
+author: AvasKr
+version: 1.0.0
+api: 4.0.0
+website: https://github.com/skh6075
+description: Fix the error using the space bar in the command name.
