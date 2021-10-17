@@ -1,5 +1,5 @@
 name: CommandErrorPatch
-main: skh6075\commandpatch\CommandPatch
+main: skh6075\commandpatch\CommandErrorPatch
 author: AvasKr
 version: 1.0.0
 api: 4.0.0
